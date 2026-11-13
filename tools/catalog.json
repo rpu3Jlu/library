@@ -1,0 +1,538 @@
+[
+ {
+  "id": "insurance-chernova-t1",
+  "genre": "economics",
+  "type": "textbook",
+  "year": 2010,
+  "languages": [
+   "rus"
+  ],
+  "subjects": [
+   "insurance",
+   "finance"
+  ],
+  "title": {
+   "ru": "Страхование: экономика, организация, управление. Том 1",
+   "uz": "Sug'urta: iqtisodiyot, tashkil etish, boshqaruv. 1-jild"
+  },
+  "author": {
+   "ru": "Под ред. Г. В. Черновой",
+   "uz": "G. V. Chernova tahriri ostida"
+  },
+  "publisher": "Экономика · Учебники экономического факультета СПбГУ",
+  "description": {
+   "ru": "Учебник экономического факультета СПбГУ о сущности страхования, страховании как методе управления риском, классификации страховой деятельности, страховом продукте, договоре страхования и структуре страхового рынка.",
+   "uz": "SPbDU iqtisodiyot fakulteti darsligi: sug'urtaning mohiyati, xavfni boshqarish usuli sifatida sug'urta, sug'urta faoliyati tasnifi, sug'urta mahsuloti, sug'urta shartnomasi va sug'urta bozori tuzilmasi."
+  },
+  "coverPage": 1,
+  "ocrLang": "rus"
+ },
+ {
+  "id": "history-economic-thought",
+  "genre": "economics",
+  "type": "textbook",
+  "year": 2014,
+  "languages": [
+   "rus"
+  ],
+  "subjects": [
+   "economic history"
+  ],
+  "title": {
+   "ru": "История экономических учений",
+   "uz": "Iqtisodiy ta'limotlar tarixi"
+  },
+  "author": {
+   "ru": "И. А. Благих, А. Н. Дубянский; под ред. А. Н. Дубянского",
+   "uz": "I. A. Blagix, A. N. Dubyanskiy; A. N. Dubyanskiy tahriri ostida"
+  },
+  "publisher": "Юрайт, Москва · Учебник для академического бакалавриата",
+  "description": {
+   "ru": "Учебник СПбГУ, допущенный для студентов экономических направлений: развитие экономической мысли от философов древности до первых научных школ, классическая политэкономия, марксизм и экономические учения XIX–XX веков.",
+   "uz": "Iqtisodiy yo'nalish talabalari uchun SPbDU darsligi: qadimgi faylasuflardan birinchi ilmiy maktablargacha iqtisodiy fikr rivoji, klassik siyosiy iqtisod, marksizm va XIX–XX asrlar iqtisodiy ta'limotlari."
+  },
+  "coverPage": 1,
+  "ocrLang": "rus"
+ },
+ {
+  "id": "internationales-marketing",
+  "genre": "economics",
+  "type": "textbook",
+  "year": null,
+  "languages": [
+   "ger",
+   "eng"
+  ],
+  "subjects": [
+   "marketing",
+   "management"
+  ],
+  "title": {
+   "ru": "Internationales Marketing in Transformationsländern",
+   "uz": "Internationales Marketing in Transformationsländern"
+  },
+  "author": {
+   "ru": "Kerstin Pezoldt, Alexandra Koval (при участии С. Сутырина, О. Трофименко, Л. Поповой)",
+   "uz": "Kerstin Pezoldt, Alexandra Koval (S. Sutyrin, O. Trofimenko, L. Popova ishtirokida)"
+  },
+  "publisher": "UVK Verlag, München · utb.",
+  "description": {
+   "ru": "Немецкоязычный учебник по международному маркетингу в странах с переходной экономикой (часть глав на английском): основы международного маркетинга, цифровизация, теория трансформации, анализ рынков и маркетинговые стратегии.",
+   "uz": "O'tish iqtisodiyotidagi mamlakatlarda xalqaro marketing bo'yicha nemis tilidagi darslik (ayrim boblar ingliz tilida): xalqaro marketing asoslari, raqamlashtirish, transformatsiya nazariyasi, bozor tahlili va marketing strategiyalari."
+  },
+  "coverPage": 1,
+  "ocrLang": "deu+eng"
+ },
+ {
+  "id": "peregovory-s-monstrami",
+  "genre": "economics",
+  "type": "business",
+  "year": null,
+  "languages": [
+   "rus"
+  ],
+  "subjects": [
+   "management"
+  ],
+  "title": {
+   "ru": "Переговоры с монстрами. Как договориться с сильными мира сего",
+   "uz": "Kuchlilar bilan muzokaralar: dunyoning qudratli kishilari bilan qanday kelishish mumkin"
+  },
+  "author": {
+   "ru": "Игорь Рызов",
+   "uz": "Igor Rizov"
+  },
+  "publisher": "Кремлёвская школа переговоров",
+  "description": {
+   "ru": "Деловая книга эксперта по переговорам о том, как договариваться с теми, кто сильнее: давление, манипуляции и способы сохранить свою позицию. В фрагменте — обложка и список литературы.",
+   "uz": "Muzokaralar bo'yicha ekspertning o'zidan kuchliroq tomon bilan kelishish, bosim va manipulyatsiyalarga qarshi turish haqidagi biznes kitobi. Parchada — muqova va adabiyotlar ro'yxati."
+  },
+  "coverPage": 4,
+  "ocrLang": "rus"
+ },
+ {
+  "id": "ponyat-uzbekistan",
+  "genre": "economics",
+  "type": "popular",
+  "year": 2026,
+  "languages": [
+   "rus"
+  ],
+  "subjects": [
+   "society"
+  ],
+  "title": {
+   "ru": "Понять Узбекистан. Записки странствующих социологов",
+   "uz": "O'zbekistonni tushunish. Sayohatchi sotsiologlar qaydlari"
+  },
+  "author": {
+   "ru": "Сергей Борисов, Юлия Юшкова-Борисова",
+   "uz": "Sergey Borisov, Yuliya Yushkova-Borisova"
+  },
+  "publisher": "Москва",
+  "description": {
+   "ru": "Социологические записки об Узбекистане: история государственности, внутреннее разнообразие страны, ценности, базар и экономика повседневности, ремёсла и традиции. Книга отнесена к разделу «Экономика» как исследование общества и хозяйственной жизни страны.",
+   "uz": "O'zbekiston haqida sotsiologik qaydlar: davlatchilik tarixi, mamlakatning ichki xilma-xilligi, qadriyatlar, bozor va kundalik iqtisodiyot, hunarmandchilik va an'analar. Kitob jamiyat va xo'jalik hayoti tadqiqoti sifatida «Iqtisodiyot» bo'limiga kiritilgan."
+  },
+  "coverPage": 1,
+  "ocrLang": "rus"
+ },
+ {
+  "id": "electronic-document-systems",
+  "genre": "programming",
+  "type": "textbook",
+  "year": null,
+  "languages": [
+   "rus"
+  ],
+  "subjects": [
+   "management information systems",
+   "information technology"
+  ],
+  "title": {
+   "ru": "Системы электронного документооборота",
+   "uz": "Elektron hujjat aylanishi tizimlari"
+  },
+  "author": {
+   "ru": "А. А. Мусалиев, Б. А. Бегалов, Е. А. Мохова",
+   "uz": "A. A. Musaliyev, B. A. Begalov, Ye. A. Moxova"
+  },
+  "publisher": "Ташкентский государственный экономический университет, Ташкент",
+  "description": {
+   "ru": "Учебное пособие о концепции и технологиях систем электронного документооборота (СЭД): классификация и свойства СЭД, ECM-системы, анализ мирового и российского рынка, выбор и внедрение СЭД, электронный документооборот в государственном управлении.",
+   "uz": "Elektron hujjat aylanishi tizimlari (EHAT) konsepsiyasi va texnologiyalari haqida o'quv qo'llanma: EHAT tasnifi va xususiyatlari, ECM-tizimlar, jahon va Rossiya bozori tahlili, EHATni tanlash va joriy etish, davlat boshqaruvida elektron hujjat aylanishi."
+  },
+  "coverPage": 4,
+  "ocrLang": "rus"
+ },
+ {
+  "id": "digital-strategy",
+  "genre": "programming",
+  "type": "textbook",
+  "year": 2024,
+  "languages": [
+   "uzb"
+  ],
+  "subjects": [
+   "management information systems",
+   "information technology"
+  ],
+  "title": {
+   "ru": "Рақамли стратегия ва ахборот тизимлари (Цифровая стратегия и информационные системы)",
+   "uz": "Raqamli strategiya va axborot tizimlari"
+  },
+  "author": {
+   "ru": "Б. А. Бегалов, Р. А. Дадабаева",
+   "uz": "B. A. Begalov, R. A. Dadabayeva"
+  },
+  "publisher": "Oltin qalam nashriyoti, Тошкент · ТДИУ",
+  "description": {
+   "ru": "Учебник на узбекском языке для магистрантов специальности «Цифровая экономика»: бизнес-модели и конкурентные стратегии, информационные системы в организации, электронный бизнес, управление ИТ-проектами и цифровая трансформация.",
+   "uz": "«Raqamli iqtisodiyot» mutaxassisligi magistrlari uchun darslik: biznes-modellar va raqobatbardosh strategiyalar, tashkilotda axborot tizimlari, elektron biznes, AT loyihalarini boshqarish va raqamli transformatsiya."
+  },
+  "coverPage": 1,
+  "ocrLang": "rus"
+ },
+ {
+  "id": "pravovedenie-67-4",
+  "genre": "law",
+  "type": "journal",
+  "year": 2023,
+  "languages": [
+   "rus",
+   "eng"
+  ],
+  "subjects": [
+   "comparative law",
+   "constitutional law",
+   "civil law"
+  ],
+  "title": {
+   "ru": "Правоведение. Т. 67, № 4 (2023)",
+   "uz": "Pravovedeniye. 67-jild, 4-son (2023)"
+  },
+  "author": {
+   "ru": "Научно-теоретический журнал СПбГУ",
+   "uz": "SPbDU ilmiy-nazariy jurnali"
+  },
+  "publisher": "Санкт-Петербургский государственный университет",
+  "description": {
+   "ru": "Выпуск «Comparemus!» памяти профессора Г. Креспи Регицци: конституционное регулирование интернет-платформ в США, развитие российского административного права, реестры недвижимости Германии и России, санкции и договорные обязательства.",
+   "uz": "Professor G. Krespi Regitstsi xotirasiga bag'ishlangan «Comparemus!» soni: AQShda internet-platformalarni konstitutsiyaviy tartibga solish, Rossiya ma'muriy huquqi, Germaniya va Rossiya ko'chmas mulk reyestrlari, sanksiyalar va shartnoma majburiyatlari."
+  },
+  "coverPage": 1,
+  "ocrLang": "rus+eng"
+ },
+ {
+  "id": "pravovedenie-67-1",
+  "genre": "law",
+  "type": "journal",
+  "year": 2023,
+  "languages": [
+   "rus",
+   "eng"
+  ],
+  "subjects": [
+   "comparative law",
+   "civil law",
+   "criminal law"
+  ],
+  "title": {
+   "ru": "Правоведение. Т. 67, № 1 (2023)",
+   "uz": "Pravovedeniye. 67-jild, 1-son (2023)"
+  },
+  "author": {
+   "ru": "Научно-теоретический журнал СПбГУ",
+   "uz": "SPbDU ilmiy-nazariy jurnali"
+  },
+  "publisher": "Санкт-Петербургский государственный университет",
+  "description": {
+   "ru": "Тематический выпуск «Смешанные юрисдикции. Часть I»: право Луизианы, Квебека и Шотландии, трасты, доктрина заблуждения, отпадение цели договора.",
+   "uz": "«Aralash yurisdiksiyalar. I qism» mavzuli soni: Luiziana, Kvebek va Shotlandiya huquqi, trastlar, adashish doktrinasi, shartnoma maqsadining yo'qolishi."
+  },
+  "coverPage": 1,
+  "ocrLang": "rus+eng"
+ },
+ {
+  "id": "pravovedenie-66-3",
+  "genre": "law",
+  "type": "journal",
+  "year": 2022,
+  "languages": [
+   "rus",
+   "eng"
+  ],
+  "subjects": [
+   "comparative law",
+   "civil law"
+  ],
+  "title": {
+   "ru": "Правоведение. Т. 66, № 3 (2022)",
+   "uz": "Pravovedeniye. 66-jild, 3-son (2022)"
+  },
+  "author": {
+   "ru": "Научно-теоретический журнал СПбГУ",
+   "uz": "SPbDU ilmiy-nazariy jurnali"
+  },
+  "publisher": "Санкт-Петербургский государственный университет",
+  "description": {
+   "ru": "Выпуск о праве Республики Корея: семейное право, общая собственность, аренда «чонсе», наследование, внедоговорная ответственность в двух Кореях, ипотека морских судов.",
+   "uz": "Koreya Respublikasi huquqiga bag'ishlangan son: oila huquqi, umumiy mulk, «chonse» ijarasi, meros, ikki Koreyada shartnomadan tashqari javobgarlik, dengiz kemalari ipotekasi."
+  },
+  "coverPage": 1,
+  "ocrLang": "rus+eng"
+ },
+ {
+  "id": "pravovedenie-66-2",
+  "genre": "law",
+  "type": "journal",
+  "year": 2022,
+  "languages": [
+   "rus",
+   "eng"
+  ],
+  "subjects": [
+   "comparative law",
+   "civil law"
+  ],
+  "title": {
+   "ru": "Правоведение. Т. 66, № 2 (2022)",
+   "uz": "Pravovedeniye. 66-jild, 2-son (2022)"
+  },
+  "author": {
+   "ru": "Научно-теоретический журнал СПбГУ",
+   "uz": "SPbDU ilmiy-nazariy jurnali"
+  },
+  "publisher": "Санкт-Петербургский государственный университет",
+  "description": {
+   "ru": "Статьи по сравнительному гражданскому праву: функции регистрационной системы, доктрина заблуждения, купля-продажа в исламской традиции, договор репо, защита добросовестного приобретателя недвижимости в КНР.",
+   "uz": "Qiyosiy fuqarolik huquqi bo'yicha maqolalar: ro'yxatga olish tizimining vazifalari, adashish doktrinasi, islom an'anasida oldi-sotdi, repo shartnomasi, XXRda ko'chmas mulkni insofli oluvchini himoya qilish."
+  },
+  "coverPage": 1,
+  "ocrLang": "rus+eng"
+ },
+ {
+  "id": "monitoring-pravoprimeneniya",
+  "genre": "law",
+  "type": "collection",
+  "year": null,
+  "languages": [
+   "rus"
+  ],
+  "subjects": [
+   "jurisprudence",
+   "civil law"
+  ],
+  "title": {
+   "ru": "Мониторинг правоприменения 2022–2023. Труды экспертов СПбГУ",
+   "uz": "Huquqni qo'llash monitoringi 2022–2023. SPbDU ekspertlari asarlari"
+  },
+  "author": {
+   "ru": "Под науч. ред. С. А. Белова, Н. М. Кропачева",
+   "uz": "S. A. Belov, N. M. Kropachev ilmiy tahriri ostida"
+  },
+  "publisher": "Издательство Санкт-Петербургского университета",
+  "description": {
+   "ru": "Сборник экспертных исследований правоприменительной практики: трудовое и социальное право, административное право и процесс, гражданское право, цифровые технологии и практика Конституционного суда.",
+   "uz": "Huquqni qo'llash amaliyoti bo'yicha ekspert tadqiqotlari to'plami: mehnat va ijtimoiy huquq, ma'muriy huquq va jarayon, fuqarolik huquqi, raqamli texnologiyalar va Konstitutsiyaviy sud amaliyoti."
+  },
+  "coverPage": 1,
+  "ocrLang": "rus"
+ },
+ {
+  "id": "transnational-relations",
+  "genre": "law",
+  "type": "monograph",
+  "year": null,
+  "languages": [
+   "rus"
+  ],
+  "subjects": [
+   "international law",
+   "conflict of laws"
+  ],
+  "title": {
+   "ru": "Правовое регулирование транснациональных отношений",
+   "uz": "Transmilliy munosabatlarni huquqiy tartibga solish"
+  },
+  "author": {
+   "ru": "Л. Н. Галенская",
+   "uz": "L. N. Galenskaya"
+  },
+  "publisher": "Издательство Санкт-Петербургского университета",
+  "description": {
+   "ru": "Система правового регулирования международных отношений, принципы и субъекты транснационального права, правовое положение юридических и физических лиц, международных организаций и ТНК, источники и применение транснационального права.",
+   "uz": "Xalqaro munosabatlarni huquqiy tartibga solish tizimi, transmilliy huquq tamoyillari va subyektlari, yuridik va jismoniy shaxslar, xalqaro tashkilotlar va TMKlarning huquqiy holati, transmilliy huquq manbalari."
+  },
+  "coverPage": 4,
+  "ocrLang": "rus"
+ },
+ {
+  "id": "private-international-law",
+  "genre": "law",
+  "type": "lectures",
+  "year": 1999,
+  "languages": [
+   "rus"
+  ],
+  "subjects": [
+   "conflict of laws",
+   "international law"
+  ],
+  "title": {
+   "ru": "Международное частное право. Курс лекций",
+   "uz": "Xalqaro xususiy huquq. Ma'ruzalar kursi"
+  },
+  "author": {
+   "ru": "В. П. Звеков",
+   "uz": "V. P. Zvekov"
+  },
+  "publisher": "НОРМА — ИНФРА-М, Москва",
+  "description": {
+   "ru": "Классический курс лекций: предмет и метод международного частного права, коллизионное и материальное право, источники, коллизионные нормы и их применение, международный гражданский процесс.",
+   "uz": "Klassik ma'ruzalar kursi: xalqaro xususiy huquq predmeti va usuli, kolliziya va moddiy huquq, manbalar, kolliziya normalari va ularni qo'llash, xalqaro fuqarolik jarayoni."
+  },
+  "coverPage": 1,
+  "ocrLang": "rus"
+ },
+ {
+  "id": "philosophy-of-law",
+  "genre": "law",
+  "type": "monograph",
+  "year": 2026,
+  "languages": [
+   "rus"
+  ],
+  "subjects": [
+   "jurisprudence"
+  ],
+  "title": {
+   "ru": "Коммуникативная философия права. Введение в философскую антропологию права и морали",
+   "uz": "Huquqning kommunikativ falsafasi. Huquq va axloq falsafiy antropologiyasiga kirish"
+  },
+  "author": {
+   "ru": "А. В. Поляков",
+   "uz": "A. V. Polyakov"
+  },
+  "publisher": "НОРМА, Москва",
+  "description": {
+   "ru": "Монография о коммуникативной антропологии права: персонализм, взаимное правовое признание, борьба за признание в истории идей, коммуникативные ценности русской философии права и универсальные правовые ценности.",
+   "uz": "Huquqning kommunikativ antropologiyasi haqida monografiya: personalizm, o'zaro huquqiy tan olish, g'oyalar tarixida tan olinish uchun kurash, rus huquq falsafasining kommunikativ qadriyatlari."
+  },
+  "coverPage": 1,
+  "ocrLang": "rus"
+ },
+ {
+  "id": "morskoe-pravo-2022-4",
+  "genre": "law",
+  "type": "journal",
+  "year": 2022,
+  "languages": [
+   "rus",
+   "eng"
+  ],
+  "subjects": [
+   "maritime law",
+   "international law"
+  ],
+  "title": {
+   "ru": "Морское право / Maritime Law Journal. Выпуск 4/2022",
+   "uz": "Dengiz huquqi / Maritime Law Journal. 4/2022-son"
+  },
+  "author": {
+   "ru": "Гл. ред. К. И. Краснокутский",
+   "uz": "Bosh muharrir K. I. Krasnokutskiy"
+  },
+  "publisher": "Ассоциация морского права RUMLA",
+  "description": {
+   "ru": "Первый в России двуязычный (русско-английский) журнал о морском праве: новости CMI, обзор судебной практики, статьи о перевозке грузов и аресте судов, унификация морского права.",
+   "uz": "Rossiyadagi birinchi ikki tilli (rus-ingliz) dengiz huquqi jurnali: CMI yangiliklari, sud amaliyoti sharhi, yuk tashish va kemalarni hibsga olish haqidagi maqolalar, dengiz huquqini unifikatsiya qilish."
+  },
+  "coverPage": 1,
+  "ocrLang": "rus+eng"
+ },
+ {
+  "id": "uzbekistan-laws-1992",
+  "genre": "law",
+  "type": "laws",
+  "year": 1992,
+  "languages": [
+   "uzb",
+   "rus"
+  ],
+  "subjects": [
+   "civil law",
+   "constitutional law"
+  ],
+  "title": {
+   "ru": "Республика Узбекистан. Законы и указы (Ўзбекистон Республикаси. Қонун ва фармонлар)",
+   "uz": "O'zbekiston Respublikasi. Qonun va farmonlar"
+  },
+  "author": {
+   "ru": "Сборник нормативных актов",
+   "uz": "Normativ hujjatlar to'plami"
+  },
+  "publisher": "Ўзбекистон, Ташкент",
+  "description": {
+   "ru": "Двуязычный сборник первых законов независимого Узбекистана: о внешнеэкономической деятельности, иностранных инвестициях, собственности, гражданстве, разгосударствлении и приватизации, предприятиях, банках и налогах.",
+   "uz": "Mustaqil O'zbekistonning ilk qonunlari ikki tilli to'plami: tashqi iqtisodiy faoliyat, xorijiy investitsiyalar, mulk, fuqarolik, davlat tasarrufidan chiqarish va xususiylashtirish, korxonalar, banklar va soliqlar to'g'risida."
+  },
+  "coverPage": 1,
+  "ocrLang": "rus"
+ },
+ {
+  "id": "notarius-kundaligi",
+  "genre": "law",
+  "type": "stories",
+  "year": 2022,
+  "languages": [
+   "uzb"
+  ],
+  "subjects": [
+   "civil law",
+   "notary"
+  ],
+  "title": {
+   "ru": "Нотариус кундалиги (Дневник нотариуса)",
+   "uz": "Notarius kundaligi"
+  },
+  "author": {
+   "ru": "Нотариальная палата Узбекистана",
+   "uz": "O'zbekiston Notarial palatasi"
+  },
+  "publisher": "«Азмир нашр принт», Тошкент",
+  "description": {
+   "ru": "Сборник на узбекском языке: истории из практики нотариусов Узбекистана, роль нотариата в формировании имиджа нового Узбекистана, история института нотариата.",
+   "uz": "O'zbekiston notariuslari amaliyotidan hayotiy hikoyalar to'plami: Yangi O'zbekiston imijini shakllantirishda notariatning o'rni, notariat instituti tarixi."
+  },
+  "coverPage": 1,
+  "ocrLang": "rus"
+ },
+ {
+  "id": "siyosatshunoslik",
+  "genre": "law",
+  "type": "textbook",
+  "year": 2024,
+  "languages": [
+   "uzb"
+  ],
+  "subjects": [
+   "political science"
+  ],
+  "title": {
+   "ru": "Сиёсатшунослик (Политология)",
+   "uz": "Siyosatshunoslik"
+  },
+  "author": {
+   "ru": "Мукимжон Киргизбоев",
+   "uz": "Muqimjon Qirg'izboyev"
+  },
+  "publisher": "«Sharq», Тошкент · Университет журналистики и массовых коммуникаций Узбекистана",
+  "description": {
+   "ru": "Учебник по политологии на узбекском языке для вузов: методология науки, политика и власть, политическая система и институты, политические процессы, политическая культура, мировая политика и политическая система Нового Узбекистана. Отнесён к разделу «Право» как наука о государстве и власти.",
+   "uz": "Oliy o'quv yurtlari uchun siyosatshunoslik darsligi: fan metodologiyasi, siyosat va hokimiyat, siyosiy tizim va institutlar, siyosiy jarayonlar, siyosiy madaniyat, jahon siyosati va Yangi O'zbekiston siyosiy tizimi. Davlat va hokimiyat haqidagi fan sifatida «Huquq» bo'limiga kiritilgan."
+  },
+  "coverPage": 1,
+  "ocrLang": "rus"
+ }
+]
